@@ -1,5 +1,5 @@
 {
-  "name": "github-search-users",
+  "name": "react-github-search-users",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,3 +1,5 @@
+import 'assets/css/tailwind.css'
+
 function App() {
   return (
     <div>

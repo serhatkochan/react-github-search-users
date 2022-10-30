@@ -8,7 +8,6 @@
       "services": ["services/*"],
       "pages": ["pages/*"],
       "components": ["components/*"],
-      "layouts": ["layouts/*"],
       "helpers": ["helpers/*"],
       "constants": ["constants/*"],
       "environment": ["environment/*"]

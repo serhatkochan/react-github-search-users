@@ -9,9 +9,9 @@
       "pages": ["pages/*"],
       "components": ["components/*"],
       "layouts": ["layouts/*"],
-      "utils": ["utils/*"],
-      "locales": ["locales/*"],
-      "constants": ["constants/*"]
+      "helpers": ["helpers/*"],
+      "constants": ["constants/*"],
+      "environment": ["environment/*"]
 
     }
   },

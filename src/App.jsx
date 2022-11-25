@@ -4,8 +4,6 @@ import i18n from 'translations';
 import {useRoutes} from "react-router-dom";
 import routes from "./routes";
 
-import 'assets/css/tailwind.css'
-
 function App() {
   return (
     <I18nextProvider i18n={i18n}>
